@@ -9,8 +9,7 @@ Muallif: Anvar Narzullaev
 
 Web sahifa: https://python.sariq.dev
 """
-# Kamida 5 elementdan iborat ismlar degan ro'yxat tuzing,
-# va ro'yxatdagi har bir ismga takrorlanuvchi xabar yozing
+Kamida 5 elementdan iborat ismlar degan ro'yxat tuzing, va ro'yxatdagi har bir ismga takrorlanuvchi xabar yozing
 ismlar = ["Ali", "Vali", "Hasan", "Husan", "Olim"]
 for ism in ismlar:
     print(f"Assalom alaykum, {ism}. Sahifamizga xush kelibsiz!")
